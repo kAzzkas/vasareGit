@@ -1,4 +1,4 @@
 while True:
-    print("I love vasare")
+    print("x")
 
-print('this is the new code')
+print('y')
